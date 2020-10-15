@@ -1,0 +1,55 @@
+GENETIC DRIFT EXERCISE DATA
+
+Initial Alleles in the Gene Pool:
+White alleles: 10
+Red alleles: 10
+********************
+
+Gene pool after generation 1:
+White alleles: 11
+Red alleles: 9
+
+Genotypes and phenotypes (gen 1):
+rr: 0
+ww: 1
+rw: 9
+White phenotype: 1
+Red phenotype: 9
+
+********************
+Gene pool after generation 2:
+White alleles: 10
+Red alleles: 10
+
+Genotypes and phenotypes (gen 2):
+rr: 2
+ww: 2
+rw: 6
+White phenotype: 2
+Red phenotype: 8
+
+********************
+Gene pool after generation 3:
+White alleles: 7
+Red alleles: 13
+
+Genotypes and phenotypes (gen 3):
+rr: 5
+ww: 2
+rw: 3
+White phenotype: 2
+Red phenotype: 8
+
+********************
+Gene pool after generation 4:
+White alleles: 4
+Red alleles: 16
+
+Genotypes and phenotypes (gen 4):
+rr: 6
+ww: 0
+rw: 4
+White phenotype: 0
+Red phenotype: 10
+
+********************

@@ -1,0 +1,1334 @@
+GENETIC DRIFT EXERCISE DATA - BLUE MUTATION
+
+Initial Alleles in the Gene Pool:
+White alleles: 10
+Red alleles: 9
+Blue alleles: 1
+********************
+
+Gene pool after generation 1:
+White alleles: 14
+Red alleles: 5
+Blue alleles: 1
+
+Genotypes and phenotypes (gen 1):
+rr: 1
+ww: 5
+rw: 3
+rb: 0
+wb: 1
+bb: 0
+White phenotype: 5
+Red phenotype: 4
+Blue phenotype: 1
+Purple phenotype: 0
+********************
+Gene pool after generation 2:
+White alleles: 14
+Red alleles: 5
+Blue alleles: 1
+
+Genotypes and phenotypes (gen 2):
+rr: 2
+ww: 6
+rw: 1
+rb: 0
+wb: 1
+bb: 0
+White phenotype: 6
+Red phenotype: 3
+Blue phenotype: 1
+Purple phenotype: 0
+********************
+Gene pool after generation 3:
+White alleles: 14
+Red alleles: 5
+Blue alleles: 1
+
+Genotypes and phenotypes (gen 3):
+rr: 0
+ww: 5
+rw: 4
+rb: 1
+wb: 0
+bb: 0
+White phenotype: 5
+Red phenotype: 4
+Blue phenotype: 0
+Purple phenotype: 1
+********************
+Gene pool after generation 4:
+White alleles: 13
+Red alleles: 6
+Blue alleles: 1
+
+Genotypes and phenotypes (gen 4):
+rr: 1
+ww: 5
+rw: 3
+rb: 1
+wb: 0
+bb: 0
+White phenotype: 5
+Red phenotype: 4
+Blue phenotype: 0
+Purple phenotype: 1
+********************
+Gene pool after generation 5:
+White alleles: 13
+Red alleles: 6
+Blue alleles: 1
+
+Genotypes and phenotypes (gen 5):
+rr: 0
+ww: 3
+rw: 6
+rb: 0
+wb: 1
+bb: 0
+White phenotype: 3
+Red phenotype: 6
+Blue phenotype: 1
+Purple phenotype: 0
+********************
+Gene pool after generation 6:
+White alleles: 15
+Red alleles: 4
+Blue alleles: 1
+
+Genotypes and phenotypes (gen 6):
+rr: 0
+ww: 6
+rw: 3
+rb: 1
+wb: 0
+bb: 0
+White phenotype: 6
+Red phenotype: 3
+Blue phenotype: 0
+Purple phenotype: 1
+********************
+Gene pool after generation 7:
+White alleles: 15
+Red alleles: 4
+Blue alleles: 1
+
+Genotypes and phenotypes (gen 7):
+rr: 0
+ww: 5
+rw: 4
+rb: 0
+wb: 1
+bb: 0
+White phenotype: 5
+Red phenotype: 4
+Blue phenotype: 1
+Purple phenotype: 0
+********************
+Gene pool after generation 8:
+White alleles: 15
+Red alleles: 3
+Blue alleles: 2
+
+Genotypes and phenotypes (gen 8):
+rr: 1
+ww: 6
+rw: 1
+rb: 0
+wb: 2
+bb: 0
+White phenotype: 6
+Red phenotype: 2
+Blue phenotype: 2
+Purple phenotype: 0
+********************
+Gene pool after generation 9:
+White alleles: 17
+Red alleles: 2
+Blue alleles: 1
+
+Genotypes and phenotypes (gen 9):
+rr: 0
+ww: 7
+rw: 2
+rb: 0
+wb: 1
+bb: 0
+White phenotype: 7
+Red phenotype: 2
+Blue phenotype: 1
+Purple phenotype: 0
+********************
+Gene pool after generation 10:
+White alleles: 15
+Red alleles: 3
+Blue alleles: 2
+
+Genotypes and phenotypes (gen 10):
+rr: 0
+ww: 5
+rw: 3
+rb: 0
+wb: 2
+bb: 0
+White phenotype: 5
+Red phenotype: 3
+Blue phenotype: 2
+Purple phenotype: 0
+********************
+Gene pool after generation 11:
+White alleles: 15
+Red alleles: 3
+Blue alleles: 2
+
+Genotypes and phenotypes (gen 11):
+rr: 0
+ww: 6
+rw: 2
+rb: 1
+wb: 1
+bb: 0
+White phenotype: 6
+Red phenotype: 2
+Blue phenotype: 1
+Purple phenotype: 1
+********************
+Gene pool after generation 12:
+White alleles: 17
+Red alleles: 3
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 12):
+rr: 0
+ww: 7
+rw: 3
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 7
+Red phenotype: 3
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 13:
+White alleles: 15
+Red alleles: 5
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 13):
+rr: 1
+ww: 6
+rw: 3
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 6
+Red phenotype: 4
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 14:
+White alleles: 14
+Red alleles: 6
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 14):
+rr: 0
+ww: 4
+rw: 6
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 4
+Red phenotype: 6
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 15:
+White alleles: 16
+Red alleles: 4
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 15):
+rr: 0
+ww: 6
+rw: 4
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 6
+Red phenotype: 4
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 16:
+White alleles: 14
+Red alleles: 6
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 16):
+rr: 2
+ww: 6
+rw: 2
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 6
+Red phenotype: 4
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 17:
+White alleles: 18
+Red alleles: 2
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 17):
+rr: 0
+ww: 8
+rw: 2
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 8
+Red phenotype: 2
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 18:
+White alleles: 19
+Red alleles: 1
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 18):
+rr: 0
+ww: 9
+rw: 1
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 9
+Red phenotype: 1
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 19:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 19):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 20:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 20):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 21:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 21):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 22:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 22):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 23:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 23):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 24:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 24):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 25:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 25):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 26:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 26):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 27:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 27):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 28:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 28):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 29:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 29):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 30:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 30):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 31:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 31):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 32:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 32):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 33:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 33):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 34:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 34):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 35:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 35):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 36:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 36):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 37:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 37):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 38:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 38):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 39:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 39):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 40:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 40):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 41:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 41):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 42:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 42):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 43:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 43):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 44:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 44):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 45:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 45):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 46:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 46):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 47:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 47):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 48:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 48):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 49:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 49):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 50:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 50):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 51:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 51):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 52:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 52):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 53:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 53):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 54:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 54):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 55:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 55):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 56:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 56):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 57:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 57):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 58:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 58):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 59:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 59):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 60:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 60):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 61:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 61):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 62:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 62):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 63:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 63):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 64:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 64):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 65:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 65):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 66:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 66):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 67:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 67):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 68:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 68):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 69:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 69):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 70:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 70):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 71:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 71):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 72:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 72):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 73:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 73):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 74:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 74):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 75:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 75):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 76:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 76):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 77:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 77):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
+Gene pool after generation 78:
+White alleles: 20
+Red alleles: 0
+Blue alleles: 0
+
+Genotypes and phenotypes (gen 78):
+rr: 0
+ww: 10
+rw: 0
+rb: 0
+wb: 0
+bb: 0
+White phenotype: 10
+Red phenotype: 0
+Blue phenotype: 0
+Purple phenotype: 0
+********************
